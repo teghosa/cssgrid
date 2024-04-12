@@ -19,13 +19,27 @@ body{
 }
 
 p {
-    background-blend-mode: red;
+    font-size: 34px;
+    color: red;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
 }
 
+.container{
+    font-size: 29px;
+    background-color: aqua;
+    display: flex;7i
+    justify-content: space-between;
+}
 
-
-
-
+.item{
+    color: violet;
+}
+.note{
+    color: darkseagreen;
+}
+ 
 
 
 
